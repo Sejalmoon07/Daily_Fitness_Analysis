@@ -6,9 +6,6 @@ Project Highlights:
 •	Created new features like DayOfWeek and TotalHours.
 •	Explored correlations between steps and calories.
 •	Visualized activity levels using scatter plots and pie charts.
-________________________________________
-Sample Plot :
-https://github.com/Sejalmoon07/Daily_Fitness_Analysis/blob/main/Screenshot%202025-07-18%20214323.png
 ________________________________________ 
 Output Sample:
 Median Steps: 7405
